@@ -34,6 +34,9 @@ scripts/install-deps.sh          # Debian/Kali packages
 scripts/build.sh                 # cmake + ninja, Release
 ```
 
+For a step-by-step setup (other distros, troubleshooting, uninstall), see
+[`INSTALL.md`](INSTALL.md).
+
 Dependencies: a C++20 compiler, CMake ≥ 3.20, Ninja, GLM, GLFW 3, nlohmann-json,
 OpenGL, and (for the desktop app) a display or `xvfb-run`.
 
