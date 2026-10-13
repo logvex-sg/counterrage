@@ -1,0 +1,3544 @@
+{
+  "accent_color": "#3b82f6",
+  "aim": {
+    "aimbot_hotkey": 5,
+    "global": {
+      "aimbot": {
+        "bones": [
+          "Head",
+          "Neck",
+          "Spine4",
+          "Spine3",
+          "Spine2",
+          "Spine1",
+          "Hip"
+        ],
+        "distance_adjusted_fov": false,
+        "enable_override": true,
+        "enabled": true,
+        "flash_check": true,
+        "fov": 8.0,
+        "inertia": 1.0,
+        "minimum_penetration_damage": 50,
+        "mode": "hold",
+        "penetration_check": false,
+        "prediction_time": 0.05000000074505806,
+        "smooth": 5.0,
+        "start_bullet": 0,
+        "target_friendlies": false,
+        "targeting_mode": "fov",
+        "visibility_check": true
+      },
+      "rcs": {
+        "enable_override": false,
+        "enabled": false,
+        "strength": [
+          0.5,
+          0.5
+        ]
+      },
+      "triggerbot": {
+        "delay": [
+          100,
+          200
+        ],
+        "enable_override": false,
+        "enabled": false,
+        "flash_check": true,
+        "head_only": false,
+        "minimum_penetration_damage": 50,
+        "mode": "hold",
+        "penetration_check": false,
+        "scope_check": true,
+        "shot_duration": 200,
+        "velocity_check": true,
+        "velocity_threshold": 100.0
+      }
+    },
+    "grenade_align": {
+      "enabled": false,
+      "fov": 10.0,
+      "hotkey": 0,
+      "smooth": 25.0
+    },
+    "triggerbot_hotkey": 4,
+    "weapons": {
+      "AK-47": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "AUG": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "AWP": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Bayonet": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Bowie Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Butterfly Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "C4 Explosive": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "CZ75-Auto": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Classic Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Decoy Grenade": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Desert Eagle": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Dual Berettas": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "FAMAS": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Falchion Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Five-SeveN": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Flashbang": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Flip Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "G3SG1": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Galil AR": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Glock-18": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Golden Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Gut Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "HE Grenade": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Huntsman Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Incendiary Grenade": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Karambit": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Kukri Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "M249": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "M4A1-S": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "M4A4": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "M9 Bayonet": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "MAC-10": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "MP5-SD": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "MP7": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "MP9": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Mag-7": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Med-Shot": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Molotov": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Navaja Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Negev": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Nomad Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Nova": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "P2000": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "P250": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "P90": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "PP-Bizon": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Paracord Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "R8 Revolver": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "SCAR-20": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "SG 553": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "SSG 08": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Sawed-Off": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Shadow Daggers": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Skeleton Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Smoke Grenade": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Stiletto Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Survival Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Talon Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Tec-9": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "UMP-45": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "USP-S": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Ursus Knife": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "XM1014": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      },
+      "Zeus x27": {
+        "aimbot": {
+          "bones": [
+            "Head",
+            "Neck",
+            "Spine4",
+            "Spine3",
+            "Spine2",
+            "Spine1",
+            "Hip"
+          ],
+          "distance_adjusted_fov": true,
+          "enable_override": false,
+          "enabled": true,
+          "flash_check": true,
+          "fov": 2.5,
+          "inertia": 1.0,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "prediction_time": 0.05000000074505806,
+          "smooth": 5.0,
+          "start_bullet": 0,
+          "target_friendlies": false,
+          "targeting_mode": "fov",
+          "visibility_check": true
+        },
+        "rcs": {
+          "enable_override": false,
+          "enabled": false,
+          "strength": [
+            0.5,
+            0.5
+          ]
+        },
+        "triggerbot": {
+          "delay": [
+            100,
+            200
+          ],
+          "enable_override": false,
+          "enabled": false,
+          "flash_check": true,
+          "head_only": false,
+          "minimum_penetration_damage": 50,
+          "mode": "hold",
+          "penetration_check": false,
+          "scope_check": true,
+          "shot_duration": 200,
+          "velocity_check": true,
+          "velocity_threshold": 100.0
+        }
+      }
+    }
+  },
+  "font": "FiraSans",
+  "fps": 120,
+  "hud": {
+    "box_color": [
+      1.0,
+      0.30000001192092896,
+      0.30000001192092896,
+      1.0
+    ],
+    "draw_armor_bar": true,
+    "draw_bomb_timer": true,
+    "draw_boxes": true,
+    "draw_crosshair": true,
+    "draw_fov_circle": true,
+    "draw_health_bar": true,
+    "draw_names": true,
+    "draw_skeleton": true,
+    "draw_weapon": true
+  },
+  "practice": {
+    "god_mode": false,
+    "infinite_ammo": true,
+    "show_damage_numbers": true,
+    "show_impact_markers": true
+  },
+  "radar": {
+    "bind_address": "127.0.0.1",
+    "enabled": false,
+    "follow_player": true,
+    "port": 6347
+  }
+}

@@ -1,0 +1,56 @@
+# Logvex GUI behaviour script. Each line drives the same code paths the
+# interactive ImGui controls use, so this verifies GUI behaviour without a human.
+
+# --- HUD overlay controls change real render state ---
+hud boxes=on
+hud skeleton=on
+hud fov_circle=on
+hud health_bar=on
+hud armor_bar=on
+hud names=on
+hud weapon=on
+hud crosshair=on
+
+# --- Scenario switching rebuilds the world ---
+scenario aim_arena
+expect_visible 2
+scenario wallbang_lane
+expect_not_visible 3
+scenario movement_range
+expect_visible 2
+scenario dust2_practice
+frames 32
+
+# --- Movement input changes the player position ---
+scenario aim_arena
+move 0.5
+expect_moved
+
+# --- Aimbot control path acquires and holds a target ---
+scenario aim_arena
+set aim.global.aimbot.fov=40
+set aim.global.aimbot.distance_adjusted_fov=false
+aimbot on
+frames 200
+expect_lock on
+aimbot off
+
+# --- Weapon selection drives per-weapon config ---
+select_weapon awp
+select_weapon ak47
+
+# --- Config persistence round trip ---
+set aim.global.aimbot.fov=7.75
+save_config
+set aim.global.aimbot.fov=1.0
+load_config
+expect_config_fov 7.75
+
+# --- Radar server starts, binds a real port, and stops ---
+radar_start
+radar_stop
+
+# --- Capture the rendered frame for evidence ---
+scenario aim_arena
+frames 40
+screenshot /tmp/logvex_gui.png
